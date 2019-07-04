@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "566802127048",
+    "firebase_url": "https://promisealarm-e46a0.firebaseio.com",
+    "project_id": "promisealarm-e46a0",
+    "storage_bucket": "promisealarm-e46a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566802127048:android:14cdaad1059b2999",
+        "android_client_info": {
+          "package_name": "com.example.promisealarmfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566802127048-dsuup2tj6fb5ggp4v05dadsm0auak6vl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.promisealarmfinal",
+            "certificate_hash": "2a9987989aa34aa1a68e57bf1bfcb8e385d55600"
+          }
+        },
+        {
+          "client_id": "566802127048-crs6pc7mqsool8hgakcg9085daepn3ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA3_d3L_-CUWyC1GRv-x4N9xJi-RkavBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566802127048-crs6pc7mqsool8hgakcg9085daepn3ea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

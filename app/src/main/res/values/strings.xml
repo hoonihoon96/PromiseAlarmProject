@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PromiseAlarmFinal</string>
+
+
+    <!-- SignInActivity SignUpActivity -->
+    <string name="id_text_hint">아이디를 입력해주세요.</string>
+    <string name="pw_text_hint">비밀번호를 입력해주세요.</string>
+    <string name="name_text_hint">이름을 입력해주세요.</string>
+
+    <string name="sign_in_button">로그인</string>
+    <string name="sign_up_button">회원가입</string>
+
+    <!-- AlarmActivity -->
+    <string name="alarm_title">제목</string>
+    <string name="alarm_description">설명</string>
+    <string name="alarm_date">날짜</string>
+    <string name="alarm_time">시간</string>
+    <string name="alarm_end_minute">알람 최대 울림 시간</string>
+
+    <string name="alarm_title_hint">제목을 입력해주세요.</string>
+    <string name="alarm_description_hint">알람에 대한 설명을 입력해주세요.</string>
+    <string name="alarm_date_hint">알람의 날짜를 정해주세요.</string>
+    <string name="alarm_time_hint">알람 시작 시간을 정해주세요.</string>
+    <string name="alarm_end_minute_default">1분</string>
+
+
+    <!-- Common -->
+    <string name="submit_button">확인</string>
+    <string name="cancel_button">취소</string>
+
+</resources>
